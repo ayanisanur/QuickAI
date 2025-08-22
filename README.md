@@ -57,7 +57,7 @@ Veritabanı
 
 PostgreSQL: Ana veritabanı
 Neon: Serverless PostgreSQL servisi
-Prisma/Sequelize: ORM çözümü
+Prisma/Sequelize: ORM çözümÜ
 
 Üçüncü Taraf Servisler
 
